@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1023877383122",
+    "firebase_url": "https://iiit-nagpur.firebaseio.com",
+    "project_id": "iiit-nagpur",
+    "storage_bucket": "iiit-nagpur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023877383122:android:a3ca4ddbc5b7640efcbe0b",
+        "android_client_info": {
+          "package_name": "com.college.iiitn.college_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023877383122-nh69lh45b4e5ik72ui6a1fdf92dklh5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Tkfdz_AfGwnNMbNQo92X_Le1zIJXqG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023877383122-nh69lh45b4e5ik72ui6a1fdf92dklh5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023877383122:android:370ff8027a708447fcbe0b",
+        "android_client_info": {
+          "package_name": "com.college.login_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023877383122-634vv44dukhb23dpgj0hipi1pbgoofr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.college.login_screen",
+            "certificate_hash": "e259ef08b07907751b8e237f1ba1990a473cca36"
+          }
+        },
+        {
+          "client_id": "1023877383122-nh69lh45b4e5ik72ui6a1fdf92dklh5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Tkfdz_AfGwnNMbNQo92X_Le1zIJXqG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023877383122-nh69lh45b4e5ik72ui6a1fdf92dklh5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
